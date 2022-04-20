@@ -1,6 +1,7 @@
 # Programming-courses-completed
 List of programming courses I've completed.
 
+* Écrivez du JavaScript pour le web (OpenClassrooms, April 2022)
 * Introduction à jQuery (OpenClassrooms, April 2022)
 * Simplifiez-vous le CSS avec Sass (OpenClassrooms, April 2022)
 * Concevez un contenu web accessible (OpenClassrooms, March 2022)
