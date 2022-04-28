@@ -1,6 +1,7 @@
 # Programming-courses-completed
 List of programming courses I've completed.
 
+* Learn React (Codecademy, April 2022)
 * Découpez et intégrez une maquette (OpenClassrooms, April 2022)
 * Testez vos applications Front End avec JavaScript (OpenClassrooms, April 2022)
 * Débutez avec React (OpenClassrooms, April 2022)
