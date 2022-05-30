@@ -1,6 +1,7 @@
 # Programming-courses-completed
 List of programming courses I've completed.
 
+* Learn TypeScript (Codecademy, May 2022)
 * Gérez votre projet informatique facilement (OpenClassrooms, April 2022)
 * Learn React (Codecademy, April 2022)
 * Découpez et intégrez une maquette (OpenClassrooms, April 2022)
